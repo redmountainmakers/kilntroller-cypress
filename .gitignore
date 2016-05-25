@@ -1,0 +1,12 @@
+Backup/
+Archive/
+*.uv*
+*.cywsp*
+*.cyprj.*
+*.cywrk.*
+codegentemp/
+Export/
+CortexM*/
+ARM_GCC_*/
+*.rpt
+*_timing.html
